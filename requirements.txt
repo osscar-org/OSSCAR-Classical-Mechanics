@@ -1,0 +1,5 @@
+widget-code-input==1.0.1
+voila-osscar-template==0.2.7
+matplotlib==3.3.2
+tabulate==0.8.7
+appmode==0.8.0
