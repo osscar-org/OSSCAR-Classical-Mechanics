@@ -7,9 +7,11 @@
 #### Index of the notebooks
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/osscar-org/OSSCAR-Classical-Mechanics/master?urlpath=%2Fapps%2Fnotebooks%2Findex.ipynb)
 
-- Exercise: Impact distance of a projectile 
+- Exercise: Impact distance of a projectile (with `widget-code-input`)
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/osscar-org/OSSCAR-Classical-Mechanics/master?urlpath=%2Fapps%2Fnotebooks%2Fprojectile-notebook.ipynb)
 
+- Exercise: Impact distance of a projectile (with `sympy`)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/osscar-org/OSSCAR-Classical-Mechanics/master?urlpath=%2Fvoila%2Frender%2Fnotebooks%2Fprojectile-sympy.ipynb)
 
 ## Acknowledgements
 
