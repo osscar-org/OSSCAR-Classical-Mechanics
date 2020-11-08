@@ -1,5 +1,6 @@
 widget-code-input==1.0.1
 voila==0.2.4
+sympy==1.6.2
 ipympl==0.5.8
 voila-osscar-template==0.2.8
 matplotlib==3.3.2
